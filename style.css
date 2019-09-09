@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #ebebeb;
+}
+
+a {
+    color: white;
+}
+.button {
+    background-color: #42aaeb;
+    border: 1px solid #42aaeb;
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+/* Learned: 
+    - targeting css with even or odd elements
+    
+    
+*/
